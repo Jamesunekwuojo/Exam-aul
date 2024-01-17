@@ -1,0 +1,67 @@
+.carddiv{
+    height: 148vh;
+    width: 40vw;
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+}
+.mainBody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Inputdiv{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+input{
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+   font-size: large;
+}
+table, tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    
+}
+.tablediv{
+    margin: 10px;
+}
+#exam{
+    margin-left: 300px;
+    background-color: rgb(0, 153, 255);
+}
+#oneL{
+    background-color: rgb(0, 153, 255);
+}
+#twoL{
+    background-color: rgb(0, 153, 255);
+}
+button{
+    background-color: green;
+    padding: 5px;
+    font-size: xx-large;
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.bottomtext{
+    margin-left: 110px;
+    color: rgb(250, 158, 173);
+    font-size: xx-large;
+    
+}
+#h2{
+    color: rgb(221, 68, 68);
+}
+.exam{
+    align-items: center;
+}
